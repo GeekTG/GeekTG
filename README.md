@@ -7,3 +7,4 @@
 
 ## Our projects
 [![Friendly-Telegram](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Friendly-Telegram&show_owner=true&theme=dark)](https://github.com/GeekTG/Friendly-Telegram)
+[![FTG Modules](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=FTG-Modules&show_owner=true&theme=dark)](https://github.com/GeekTG/FTG-Modules)
