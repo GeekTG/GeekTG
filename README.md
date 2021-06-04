@@ -6,5 +6,5 @@
 ### We ( [lavender](https://github.com/fast-geek), [D4n13l3k00](https://github.com/D4n13l3k00), [Fl1yd](https://github.com/Fl1yd), [mishase](https://github.com/mishase), [tshipenchko](https://github.com/tshipenchko) ) are a small team of programmers who are passionate about telegram topics
 
 ## Our projects
-[![Friendly-Telegram](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Friendly-Telegram&show_owner=true&theme=dark)](https://github.com/GeekTG/Friendly-Telegram)
-[![FTG Modules](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=FTG-Modules&show_owner=true&theme=dark)](https://github.com/GeekTG/FTG-Modules)
+[![Friendly-Telegram](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Friendly-Telegram&show_owner=true&theme=react)](https://github.com/GeekTG/Friendly-Telegram)
+[![FTG Modules](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=FTG-Modules&show_owner=true&theme=react)](https://github.com/GeekTG/FTG-Modules)
